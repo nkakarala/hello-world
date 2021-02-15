@@ -1,2 +1,2 @@
-# hello-world
-Practice Creating a Repository
+# this is my first program
+print ("Hello World!")
